@@ -11,3 +11,4 @@
 [educator resources (sign up required)](https://www.unrealengine.com/en-US/educators/resources)
 
 [blog post on developing course materials (they're looking for educators)](https://www.unrealengine.com/en-US/blog/become-an-unreal-engine-online-course-author)
+[facial mocap with iphone x](https://medium.com/@joe.j.graf/facial-animation-capture-using-ue4-and-iphone-x-c52a80a91762)
