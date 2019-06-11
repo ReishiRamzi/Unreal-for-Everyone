@@ -15,7 +15,6 @@
 - this solution is not just a course or a workshop, but an institutional initiative engaging students as well as faculty and staff, preparing them to feel empowered to create with the rising industry standard.
 - This solution is not for games development, but leveraging the powerful Unreal Engine for realizing creative visions across many disciplines. We will teach the fundamental concepts necessary to be empowered to create.
 
-
 ## Who is the audience?
 - The audience for this initiative is students, faculty, and staff.
 - Students from the computer science, art, theatre, media, and psychology.
@@ -30,6 +29,7 @@
 - Packaging, polishing, and deployment
 ### Intermediate
 - Events, interfaces and blueprint communication
+- Maps, modes, states, instances
 - UI with widget blueprints
 - Programming concepts with Blueprints
 - AI and behavior trees

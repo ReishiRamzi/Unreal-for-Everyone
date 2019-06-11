@@ -29,3 +29,5 @@
 [San Diego Mesa College's Game development degree program](http://www.sdmesa.edu/academics/academic-programs/multimedia.shtml)
 
 [Teaching programming with blueprints (zak parrish!)](https://youtu.be/UAF1cx1Nrok)
+
+[Drexel Sample Course Plan - B.S. in CS, Game Dev Concentration](http://catalog.drexel.edu/undergraduate/collegeofcomputingandinformatics/gameprogramminganddevelopment/index.html#sampleplanofstudytext)
