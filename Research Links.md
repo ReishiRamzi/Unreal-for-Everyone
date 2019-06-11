@@ -27,3 +27,5 @@
 [Tech High at Seminole: Mrs. Kirk's program overview](https://www.mrskirk.com/courses)
 
 [San Diego Mesa College's Game development degree program](http://www.sdmesa.edu/academics/academic-programs/multimedia.shtml)
+
+[Teaching programming with blueprints (zak parrish!)](https://youtu.be/UAF1cx1Nrok)
