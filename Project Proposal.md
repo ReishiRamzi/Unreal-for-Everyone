@@ -12,30 +12,31 @@
 - Prepare students for the future of new media by introducing them to the future of industry tools in a guided learning environment.
 
 ## Why is this solution better than existing solutions? How is it different?
-- this solution is not just a course or a workshop, but an institutional initiative engaging students as well as faculty and staff, preparing them to feel empowered to create with the rising industry standard.
+- This solution is not just a course or a workshop, but an institutional initiative engaging students as well as faculty and staff, preparing them to feel empowered to create with the rising industry standard.
 - This solution is not for games development, but leveraging the powerful Unreal Engine for realizing creative visions across many disciplines. We will teach the fundamental concepts necessary to be empowered to create.
 
 ## Who is the audience?
 - The audience for this initiative is students, faculty, and staff.
 - Students from the computer science, art, theatre, media, and psychology.
-- faculty and staff from Digital learning, and respective student programs
+- Faculty and staff from Digital learning, and respective student programs
+- Double major students, such as computer science and media, would benefit from the program.
 
 ## What is the course progression? (needs revision)
 ### Beginner
 - Using the editor
 - Working with assets
 - Blueprints
+- Working with inputs
+- UI with widget blueprints
 - Project proposals and design documentation
 - Packaging, polishing, and deployment
 ### Intermediate
 - Events, interfaces and blueprint communication
 - Maps, modes, states, instances
-- UI with widget blueprints
 - Programming concepts with Blueprints
 - AI and behavior trees
-- VFX with Niagara
-- Characters and Animation blueprint
-### Advanced
+- Characters and Animation blueprints
+### For Engineers
 - Visual Studio and c++
 - exposing blueprint nodes through c++
 - Source Control
@@ -45,5 +46,6 @@
 - 3d models (modeling, texturing, rigging, animating)
 - Materials and shaders
 - Cinematics with Sequencer
+- VFX with Niagara
 
 
