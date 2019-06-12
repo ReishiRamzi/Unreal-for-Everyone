@@ -47,5 +47,41 @@
 - Materials and shaders
 - Cinematics with Sequencer
 - VFX with Niagara
+CG 225 Introduction to 3D Computer Graphics (3 cr.)
+This course introduces students to 3D software and practices
+for production. Topics include organization strategies, modeling,
+unwrapping, texture mapping, rigging, lighting, and cameras
 
 
+
+
+Two options
+CG 125 Introduction to 3D Production for Designers (3 cr.)
+Prerequisite(s): ART 102 or ART 105
+This course introduces game designers to the 3D production
+process. The course begins with the basics of interface
+organization strategies, equipment options, and production
+elements. The class also introduces techniques for texture
+mapping, modeling, rigging, lighting, cameras, and animation.
+
+
+CG 275 Introduction to 3D Animation (3 cr.)
+Prerequisite(s): CG 225, ANI 151
+This course explores and exercises the concepts and
+techniques of 3D animation through a series of assignments
+applied to characters. The course emphasizes character
+development in the expression of personality, mood, thought,
+and attitude through motion and posing.
+CG 300 3D Environment and Level Design (3 cr.)
+Prerequisite(s): CG 275
+This course introduces students to the principles of 3D
+environment design. Theatrical sets, architectural simulations,
+and level design are considered. In order to provide students
+with a broader skill set, this course also presents the mechanics
+of how to use other 3D animation software, with an emphasis
+on the unique strengths of the package. Students explore the
+comparative strengths of different software packages and the
+impact that this has on workflow. The course emphasizes critical
+thinking skills and strategies for tool selection.
+
+https://www.digipen.edu/sites/default/files/public/docs/digipen-course-catalog-2018-2019.pdf
