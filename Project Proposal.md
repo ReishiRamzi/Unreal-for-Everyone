@@ -48,17 +48,20 @@
 - Cinematics with Sequencer
 - VFX with Niagara
 
-Introduction to Computer Graphics 
+## Introduction to Computer Graphics 
 
 This course introduces students to the 3D production pipeline. The processes and concepts of modeling, modifiers, UV mapping, texturing, rigging, and animations are introduced using Blender. A complete asset is produced through design and implementation assignments and is then and exported to the Unreal Engine.
 
-Introduction to Simulations 
+## Introduction to Simulations 
 Unreal Engine is  used to introduce students the editor by working with assets, blueprints, materials, lighting, visual effects, cameras and controls.
 The final project, a cinematic trailer or short interactive experience, is produced through a series of storyboarding, design and implementation assignments.
 
-Simulated and Interactive Environments
+## Simulated and Interactive Environments
 Prerequisites: Introduction to Computer Graphics, introduction to simulations
 Students are introduced to designing 3D environments and experiences using Unreal Engine. Theatrical sets, architectural simulations, and level design projects are proposed and and completed in teams using agile methodology.
+
+Current courses:
+Storytelling
 
 Two options
 CG 125 Introduction to 3D Production for Designers (3 cr.)
